@@ -1,0 +1,15 @@
+D:\Projects\C#\L1\L6\bin\Debug\net6.0\L6.exe
+D:\Projects\C#\L1\L6\bin\Debug\net6.0\L6.deps.json
+D:\Projects\C#\L1\L6\bin\Debug\net6.0\L6.runtimeconfig.json
+D:\Projects\C#\L1\L6\bin\Debug\net6.0\L6.dll
+D:\Projects\C#\L1\L6\bin\Debug\net6.0\ref\L6.dll
+D:\Projects\C#\L1\L6\bin\Debug\net6.0\L6.pdb
+D:\Projects\C#\L1\L6\obj\Debug\net6.0\L6.csproj.AssemblyReference.cache
+D:\Projects\C#\L1\L6\obj\Debug\net6.0\L6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\L1\L6\obj\Debug\net6.0\L6.AssemblyInfoInputs.cache
+D:\Projects\C#\L1\L6\obj\Debug\net6.0\L6.AssemblyInfo.cs
+D:\Projects\C#\L1\L6\obj\Debug\net6.0\L6.csproj.CoreCompileInputs.cache
+D:\Projects\C#\L1\L6\obj\Debug\net6.0\L6.dll
+D:\Projects\C#\L1\L6\obj\Debug\net6.0\ref\L6.dll
+D:\Projects\C#\L1\L6\obj\Debug\net6.0\L6.pdb
+D:\Projects\C#\L1\L6\obj\Debug\net6.0\L6.genruntimeconfig.cache
