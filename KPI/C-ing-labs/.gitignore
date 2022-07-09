@@ -4,5 +4,10 @@ cmake-build-debug
 lab3
 lab4
 lab5
+
+lab3.o
+lab4.o
+lab5.o
+
 CMakeLists.txt
 .gitignore.bak
